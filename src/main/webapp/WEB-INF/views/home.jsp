@@ -15,5 +15,6 @@
 <a href="./notice/noticeList?name=notice">Go NoticeList</a>
 <a href="./qna/qnaList">Go QnaList</a>
 <img src="./resources/images/Tulips.jpg">
+<h3>MASTER</h3>
 </body>
 </html>
