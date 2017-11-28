@@ -9,11 +9,10 @@
 <h1>
 	Hello world!!
 </h1>
-
-<%-- <P>  The time on the server is ${serverTime}. </P>
+<P>  The time on the server is ${serverTime}. </P>
 <a href="./notice">Go Notice</a>
 <a href="./notice/noticeList?name=notice">Go NoticeList</a>
 <a href="./qna/qnaList">Go QnaList</a>
-<img src="./resources/images/Tulips.jpg"> --%>
+<img src="./resources/images/Tulips.jpg">
 </body>
 </html>
